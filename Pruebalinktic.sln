@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pruebalinktic.Shared", "Pruebalinktic.Shared\Pruebalinktic.Shared.csproj", "{7CE59E3D-F851-4F08-865F-A49222BBB28B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pruebalinktic.Frontend", "Pruebalinktic.Frontend\Pruebalinktic.Frontend.csproj", "{F6C7CA3F-389C-46FF-A32F-521CC3D15663}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7CE59E3D-F851-4F08-865F-A49222BBB28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CE59E3D-F851-4F08-865F-A49222BBB28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CE59E3D-F851-4F08-865F-A49222BBB28B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C7CA3F-389C-46FF-A32F-521CC3D15663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C7CA3F-389C-46FF-A32F-521CC3D15663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C7CA3F-389C-46FF-A32F-521CC3D15663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C7CA3F-389C-46FF-A32F-521CC3D15663}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
