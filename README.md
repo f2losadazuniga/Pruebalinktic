@@ -27,6 +27,7 @@ Capas de la Aplicación:
 
 Backend:
 Se utiliza 
+para poder ver las imagenes tiene que configurar un contenedor de AzureStorage
 DataContext: Configuración del contexto de datos y las entidades.
 Controladores: Gestión de rutas API para las entidades.
 Repositorios: Implementación de patrones de repositorio genérico y Unit of Work para la gestión de datos.
